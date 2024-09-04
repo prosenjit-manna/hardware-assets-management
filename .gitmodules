@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:prosenjit-manna/hardware-assets-management-backend.git
